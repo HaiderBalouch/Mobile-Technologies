@@ -1,4 +1,4 @@
-Tutorial and Lab Work completed for the Mobile Technologies at the University of Canberra.
+Tutorial, Group Assignment and Lab Work completed for the Mobile Technologies at the University of Canberra.
 Each week is packaged with as a .zip file containing the full Android Studio Project for that session.
 
 Tech Stack:
